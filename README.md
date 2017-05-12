@@ -13,7 +13,7 @@
 - 사용기술 : Java
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.jjhkbk.bookdiary&hl=ko)
 
-<img src="myBookStroy_01.PNG" width="160"/> <img src="myBookStroy_02.PNG" width="160"/> <img src="myBookStroy_03.PNG" width="160"/> <img src="myBookStroy_04.PNG" width="160"/>
+<img src="myBookStroy_01.PNG" width="160"/> <img src="myBookStroy_02.PNG" width="160"/> <img src="myBookStroy_03.PNG" width="160"/> <img src="myBookStroy_04.PNG" width="160"/><img src="myBookStroy_06.PNG" width="160"/>
 
 ## 회사 프로젝트
 ### 헤이딜러
