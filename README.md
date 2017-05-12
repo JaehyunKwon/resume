@@ -20,7 +20,7 @@
 - 역할 : iOS 앱 개발
 - 기간 : 2016/06/15 ~ 현재
 - 사용기술 : iOS, Swift(3.0), RxSwift
-- AppStore (https://itunes.apple.com/kr/app/id980166975)
+- GooglePlayStore (https://itunes.apple.com/kr/app/id980166975)
 <img src="images/heydealer_00.jpeg" width="160"/> <img src="images/heydealer_01.jpeg" width="160"/> <img src="images/heydealer_02.jpeg" width="160"/> <img src="images/heydealer_03.jpeg" width="160"/> <img src="images/heydealer_04.jpeg" width="160"/>
 
 ### 헤이딜러(딜러용)
@@ -28,7 +28,8 @@
 - 역할 : iOS 앱 개발
 - 기간 : 2016/06/15 ~ 현재
 - 사용기술 : iOS, Swift(3.0), Firebase, RxSwift
-- AppStore (https://itunes.apple.com/kr/app/id1147518289)
+- GooglePlayStore (https://itunes.apple.com/kr/app/id1147518289)
+
 <img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> <img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
 
 ### 카큐™중고차 시세계산기중고차들의 가격변동과 중고차의 판매가격을 예측정책적으로 핵심기능은 비활성상태
@@ -36,7 +37,7 @@
 - 역할 : iOS 앱 개발
 - 기간 : 2016/01/05 ~ 2016/06/07
 - 사용기술 : iOS, Swift(2.3)
-- AppStore (https://itunes.apple.com/kr/app/id1084930611)
+- GooglePlayStore (https://itunes.apple.com/kr/app/id1084930611)
 [![Alt carq](images/carq160.jpg)](https://s3.ap-northeast-2.amazonaws.com/co.kr.taewan.preview/carq.mp4)
 
 ### 시간표-타임스프레드시간표 관리하는 어플리케이션
@@ -44,7 +45,7 @@
 - 역할 : iOS 앱 개발
 - 기간 : 2016/01/14 ~ 2016/03/28
 - 사용기술 : iOS, Swift(2.3), Realm
-- AppStore (https://itunes.apple.com/kr/app/id457130897)
+- GooglePlayStore (https://itunes.apple.com/kr/app/id457130897)
 <img src="images/timespread_00.jpeg" width="160"/> <img src="images/timespread_01.jpeg" width="160"/> <img src="images/timespread_02.jpeg" width="160"/>
 
 ### 두포토사진가들이 사진을 찍고 고객들과 손쉽게 사진을 공유하고 관리하기위한 서비스
