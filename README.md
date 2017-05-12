@@ -13,7 +13,7 @@
 - 사용기술 : Java
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.jjhkbk.bookdiary&hl=ko)
 
-<img src="myBookStroy_01.PNG" width="160"/> <img src="myBookStroy_02.PNG" width="160"/> <img src="myBookStroy_03.PNG" width="160"/> <img src="myBookStroy_06.PNG" width="160"/>
+<img src="myBookStroy_01.PNG" width="160"/> <img src="myBookStroy_02.PNG" width="160"/> <img src="myBookStroy_03.PNG" width="160"/> <img src="myBookStroy_04.PNG" width="160"/>
 
 ## 회사 프로젝트
 ### 헤이딜러
@@ -22,6 +22,7 @@
 - 기간 : 2016/06/15 ~ 현재
 - 사용기술 : iOS, Swift(3.0), RxSwift
 - GooglePlayStore (https://itunes.apple.com/kr/app/id980166975)
+
 <img src="images/heydealer_00.jpeg" width="160"/> <img src="images/heydealer_01.jpeg" width="160"/> <img src="images/heydealer_02.jpeg" width="160"/> <img src="images/heydealer_03.jpeg" width="160"/> <img src="images/heydealer_04.jpeg" width="160"/>
 
 ### 헤이딜러(딜러용)
@@ -39,6 +40,7 @@
 - 기간 : 2016/01/05 ~ 2016/06/07
 - 사용기술 : iOS, Swift(2.3)
 - GooglePlayStore (https://itunes.apple.com/kr/app/id1084930611)
+
 [![Alt carq](images/carq160.jpg)](https://s3.ap-northeast-2.amazonaws.com/co.kr.taewan.preview/carq.mp4)
 
 ### 시간표-타임스프레드시간표 관리하는 어플리케이션
@@ -47,6 +49,7 @@
 - 기간 : 2016/01/14 ~ 2016/03/28
 - 사용기술 : iOS, Swift(2.3), Realm
 - GooglePlayStore (https://itunes.apple.com/kr/app/id457130897)
+
 <img src="images/timespread_00.jpeg" width="160"/> <img src="images/timespread_01.jpeg" width="160"/> <img src="images/timespread_02.jpeg" width="160"/>
 
 ### 두포토사진가들이 사진을 찍고 고객들과 손쉽게 사진을 공유하고 관리하기위한 서비스
@@ -62,6 +65,7 @@
 - 역할 : Android, iOS, 서버
 - 사용기술 : Java, Swift(2.3), GPUImage, Node.js
 - 서비스종료
+
 <img src="images/summer_01.jpg" width="160"/> <img src="images/summer_02.jpg" width="160"/> <img src="images/summer_03.jpg" width="160"/> <img src="images/summer_04.jpg" width="160"/> <img src="images/summer_05.jpg" width="160"/>
 
 ### 스프링비율이 좋지 않게 나온 전신 사진의 비율을 좋게 만들어주는 사진앱 (키늘리기, 다이어트, 얼굴 축소)
@@ -69,4 +73,5 @@
 - 소속 : 선데이벅스
 - 역할 : Android, iOS, OpenGL
 - 사용기술 : Java, Objective-C
+
 <img src="images/spring_00.jpeg" width="160"/> <img src="images/spring_01.jpeg" width="160"/> <img src="images/spring_02.jpeg" width="160"/> <img src="images/spring_03.jpeg" width="160"/> <img src="images/spring_04.jpeg" width="160"/>
