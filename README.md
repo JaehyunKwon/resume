@@ -12,21 +12,23 @@
 - 기간: 2014/7 ~ 2016/8
 - 사용기술 : Java
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.jjhkbk.bookdiary&hl=ko)
-<img src="myBookStroy_01.PNG" width="160"/> <img src="myBookStroy_02.PNG" width="160"/> <img src="myBookStroy_03.PNG" width="160"/> <img src="myBookStroy_04.PNG" width="160"/><img src="myBookStroy_05.PNG" width="160"/><img src="myBookStroy_06.PNG" width="160"/>
+<img src="myBookStroy_01.PNG" width="160"/> <img src="myBookStroy_02.PNG" width="160"/> <img src="myBookStroy_03.PNG" width="160"/> <img src="myBookStroy_04.PNG" width="160"/>
 
 ## 회사 프로젝트
 ### 헤이딜러
 - 소속 : 피알앤디컴퍼니 
 - 역할 : iOS 앱 개발
 - 기간 : 2016/06/15 ~ 현재
-- 사용기술 : iOS, Swift(3.0), RxSwift- AppStore (https://itunes.apple.com/kr/app/id980166975)
+- 사용기술 : iOS, Swift(3.0), RxSwift
+- AppStore (https://itunes.apple.com/kr/app/id980166975)
 <img src="images/heydealer_00.jpeg" width="160"/> <img src="images/heydealer_01.jpeg" width="160"/> <img src="images/heydealer_02.jpeg" width="160"/> <img src="images/heydealer_03.jpeg" width="160"/> <img src="images/heydealer_04.jpeg" width="160"/>
 
 ### 헤이딜러(딜러용)
 - 소속 : 피알앤디컴퍼니 
 - 역할 : iOS 앱 개발
 - 기간 : 2016/06/15 ~ 현재
-- 사용기술 : iOS, Swift(3.0), Firebase, RxSwift- AppStore (https://itunes.apple.com/kr/app/id1147518289)
+- 사용기술 : iOS, Swift(3.0), Firebase, RxSwift
+- AppStore (https://itunes.apple.com/kr/app/id1147518289)
 <img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> <img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
 
 ### 카큐™중고차 시세계산기중고차들의 가격변동과 중고차의 판매가격을 예측정책적으로 핵심기능은 비활성상태
