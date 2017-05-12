@@ -10,12 +10,10 @@
 ### My Book Story
 내가 읽은 책을 쉽게 검색하고 남기고 싶은 글귀를 사진으로 찍어 저장하여 책장에 보관할 수 있는 도서 관리 서비스.
 - 기간: 2014/7 ~ 2016/8
-- 사용기술 : Swift, Realm, GPUImage
+- 사용기술 : Java
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.jjhkbk.bookdiary&hl=ko)
 <img src="images/daylight_01.jpeg" width="160"/> <img src="images/daylight_02.jpeg" width="160"/> <img src="images/daylight_03.jpeg" width="160"/> <img src="images/daylight_04.jpeg" width="160"/>
-### Preview for Instagram
-인스타그램에 사진을 올리기전에 올라가있는 사진과 함께 미리보는 앱- 기간 : 2016/3/18 ~ 2016/8/29- 사용기술 : Swift, GPUImage- AppStore (https://itunes.apple.com/kr/app/id1148486412)
-<img src="images/preview_00.jpeg" width="160"/> <img src="images/preview_01.jpeg" width="160"/> <img src="images/preview_02.jpeg" width="160"/> <img src="images/preview_03.jpeg" width="160"/> <img src="images/preview_04.jpeg" width="160"/>
+
 ## 회사 프로젝트
 ### 헤이딜러- 소속 : 피알앤디컴퍼니 - 역할 : iOS 앱 개발- 기간 : 2016/06/15 ~ 현재- 사용기술 : iOS, Swift(3.0), RxSwift- AppStore (https://itunes.apple.com/kr/app/id980166975)
 <img src="images/heydealer_00.jpeg" width="160"/> <img src="images/heydealer_01.jpeg" width="160"/> <img src="images/heydealer_02.jpeg" width="160"/> <img src="images/heydealer_03.jpeg" width="160"/> <img src="images/heydealer_04.jpeg" width="160"/>
