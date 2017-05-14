@@ -41,7 +41,7 @@
 - 사용기술 : Java
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.tocsoda)
 
-<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> <img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
+<img src="tocsoda_01.PNG" width="160"/> <img src="tocsoda_02.PNG" width="160"/> <img src="tocsoda_03.PNG" width="160"/> <img src="tocsoda_04.PNG" width="160"/> <img src="tocsoda_05.PNG" width="160"/>
 
 ### 시간표-타임스프레드시간표 관리하는 어플리케이션
 - 발주: J CONNECT
