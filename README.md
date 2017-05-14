@@ -32,7 +32,7 @@
 - 사용기술 : Java, DRM, TTS
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.ebook.b2b.phone.type3)
 
-<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> <img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
+<img src="type3_01.PNG" width="160"/> <img src="type3_02.PNG" width="160"/> <img src="type3_03.PNG" width="160"/> <img src="type3_04.PNG" width="160"/> <img src="type3_05.PNG" width="160"/>
 
 ### 웹소설 톡소다
 - 소속 : 교보문고 
