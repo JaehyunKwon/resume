@@ -46,35 +46,70 @@
 ### KT ucloud - KT의 클라우드 기반 백업 서비스
 - 소속 : 유누스
 - 역할 : 안드로이드 앱 개발
-- 기간 : 2016/01/14 ~ 2016/03/28
+- 기간 : 2016/03 ~ 2016/09/23
 - 사용기술 : Java
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.kth.widgets.uucloud)
 
 <img src="ucloud_01.PNG" width="160"/> <img src="ucloud_02.PNG" width="160"/> <img src="ucloud_03.PNG" width="160"/> <img src="ucloud_04.PNG" width="160"/>
 
-### Visit Korea : Official Guide (영문) - 한국관광객들을 위한 한국 관광지 및 이벤트 등 정보 제공 서비스
+### 종근당 M-Office - 종근당 영업사원들의 실적을 기록하는 앱
 - 소속 : 유누스
 - 역할 : 안드로이드 앱 개발
-- 기간 : 2015/08/28 ~ 2015/10/30
-- 사용기술 : Java
+- 기간 : 2015/12 ~ 2016/02
+- 사용기술 : Java, Android, Volley
+
+### TvingStickMnet
+- 소속 : 유누스
+- 역할 : 안드로이드 앱 개발
+- 기간 : 2015/07 ~ 2015/11
+- 사용기술 : Java, Android, Volley
+
+### CLiP 혜택 ((구)올레앱통) -  KT제휴컨텐츠들을 하나로 모아 제공하는 서비스 앱
+- 소속 : 유누스
+- 역할 : 안드로이드 앱 개발
+- 기간 : 2015/07 ~ 2015/11
+- 사용기술 : Java, Android, Volley, KPNS
+- 서비스 종료
+
+<img src="vkeng_01.PNG" width="160"/> <img src="vkeng_02.PNG" width="160"/> <img src="vkeng_03.PNG" width="160"/> <img src="vkeng_04.PNG" width="160"/> <img src="vkeng_05.PNG" width="160"/>
+
+### Visit Korea : Official Guide (영문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
+- 소속 : 유누스
+- 역할 : 안드로이드 앱 개발
+- 기간 : 2015/04 ~ 2015/07
+- 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.visitkorea.eng)
 
 <img src="vkeng_01.PNG" width="160"/> <img src="vkeng_02.PNG" width="160"/> <img src="vkeng_03.PNG" width="160"/> <img src="vkeng_04.PNG" width="160"/> <img src="vkeng_05.PNG" width="160"/>
 
-### 韩国自助游 (중문) - 한국관광객들을 위한 한국 관광지 및 이벤트 등 정보 제공 서비스
+### 韩国自助游 (중문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
 - 역할 : 안드로이드 앱 개발
-- 기간 : 2015/01/11 ~ 2015/08/28
-- 사용기술 : Java
+- 기간 : 2015/04 ~ 2015/07
+- 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=kr.or.visitkorea.china)
 
 <img src="vkchina_01.PNG" width="160"/> <img src="vkchina_02.PNG" width="160"/> <img src="vkchina_03.PNG" width="160"/> <img src="vkchina_04.PNG" width="160"/> <img src="vkchina_05.PNG" width="160"/>
 
-### 韓国旅ガイド (일문) - 한국관광객들을 위한 한국 관광지 및 이벤트 등 정보 제공 서비스
+### 韓国旅ガイド (일문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
 - 역할 : 안드로이드 앱 개발
-- 기간 : 2014/06/03 ~ 현재
-- 사용기술 : Java
+- 기간 : 2015/04 ~ 2015/07
+- 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=kto.visitkoreajp)
 
 <img src="vkjp_01.PNG" width="160"/> <img src="vkjp_02.PNG" width="160"/> <img src="vkjp_03.PNG" width="160"/> <img src="vkjp_04.PNG" width="160"/> <img src="vkjp_05.PNG" width="160"/>
+
+### KT뮤직 Genie 라디오 
+- 소속 : 유누스
+- 역할 : CMS 웹 사이트 개발(전시메타 스케쥴링), REST API 개발
+- 기간 : 2014/11 ~ 2015/04
+- 사용기술 : Java, Android, Spring 4.0, jquery, lambdaj, lombok, jodatime, MySql, tomcat7
+
+### KT 올레마켓 
+- 소속 : 유누스
+- 역할 : 2014 앱리뉴얼 관리자 웹 사이트 개발 (기프티쇼 상품에 대한 전시제어 기능 개발, 이벤트 전시제어 기능 개발) 하이브리드 앱 인증고도화(보안번호 : 상품구매시 보안번호 적용 / 성인인증 : 성인상품구매시 성인인증 적용)
+- 기간 : 2014/01 ~ 2014/11
+- 사용기술 : Java, Android, Spring 2.5, Spring 3.1, quartz, jquery, Sql Server 2008, tomcat6
+- 서비스 종료 (ONE스토어로 통합)
+
