@@ -71,8 +71,6 @@
 - 사용기술 : Java, Android, Volley, KPNS
 - 서비스 종료
 
-<img src="vkeng_01.PNG" width="160"/> <img src="vkeng_02.PNG" width="160"/> <img src="vkeng_03.PNG" width="160"/> <img src="vkeng_04.PNG" width="160"/> <img src="vkeng_05.PNG" width="160"/>
-
 ### Visit Korea : Official Guide (영문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
 - 역할 : 안드로이드 앱 개발
@@ -111,5 +109,5 @@
 - 역할 : 2014 앱리뉴얼 관리자 웹 사이트 개발 (기프티쇼 상품에 대한 전시제어 기능 개발, 이벤트 전시제어 기능 개발) 하이브리드 앱 인증고도화(보안번호 : 상품구매시 보안번호 적용 / 성인인증 : 성인상품구매시 성인인증 적용)
 - 기간 : 2014/01 ~ 2014/11
 - 사용기술 : Java, Android, Spring 2.5, Spring 3.1, quartz, jquery, Sql Server 2008, tomcat6
-- 서비스 종료 (ONE스토어로 통합)
+- 서비스 종료 (ONEstore로 통합)
 
