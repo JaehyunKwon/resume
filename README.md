@@ -25,23 +25,23 @@
 
 <img src="images/heydealer_00.jpeg" width="160"/> <img src="images/heydealer_01.jpeg" width="160"/> <img src="images/heydealer_02.jpeg" width="160"/> <img src="images/heydealer_03.jpeg" width="160"/> <img src="images/heydealer_04.jpeg" width="160"/>
 
-### 헤이딜러(딜러용)
-- 소속 : 피알앤디컴퍼니 
-- 역할 : iOS 앱 개발
-- 기간 : 2016/06/15 ~ 현재
-- 사용기술 : iOS, Swift(3.0), Firebase, RxSwift
-- GooglePlayStore (https://itunes.apple.com/kr/app/id1147518289)
+### 교보문고 전자도서관
+- 소속 : 교보문고 
+- 역할 : 안드로이드 앱 개발
+- 기간 : 2016/09 ~ 현재
+- 사용기술 : Java, DRM, TTS
+- GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.ebook.b2b.phone.type3)
 
 <img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> <img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
 
-### 카큐™중고차 시세계산기중고차들의 가격변동과 중고차의 판매가격을 예측정책적으로 핵심기능은 비활성상태
-- 소속 : 피알앤디컴퍼니 
-- 역할 : iOS 앱 개발
-- 기간 : 2016/01/05 ~ 2016/06/07
-- 사용기술 : iOS, Swift(2.3)
-- GooglePlayStore (https://itunes.apple.com/kr/app/id1084930611)
+### 웹소설 톡소다
+- 소속 : 교보문고 
+- 역할 : 안드로이드 앱 개발
+- 기간 : 2016/10/10 ~ 2017/04/01
+- 사용기술 : Java
+- GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.tocsoda)
 
-[![Alt carq](images/carq160.jpg)](https://s3.ap-northeast-2.amazonaws.com/co.kr.taewan.preview/carq.mp4)
+<img src="images/heydealer_for_dealer_00.jpeg" width="160"/> <img src="images/heydealer_for_dealer_01.jpeg" width="160"/> <img src="images/heydealer_for_dealer_02.jpeg" width="160"/> <img src="images/heydealer_for_dealer_03.jpeg" width="160"/> <img src="images/heydealer_for_dealer_04.jpeg" width="160"/>
 
 ### 시간표-타임스프레드시간표 관리하는 어플리케이션
 - 발주: J CONNECT
