@@ -2,19 +2,23 @@
 [교보문고](http://www.kyobobook.co.kr/)
 - 2016/09 ~ 현재
 
-[유누스](http://theunus.com/ko/)
+[유누스]
 - 2013/07 ~ 2016/09
 
 ## 개인 프로젝트
 ### 미세멍지
 미세먼지를 WHO 기준으로 제공해주며 사랑스러운 반려견과 산책하기 좋은지에 대해서 직관적으로 제공해주는 앱.
+- 역할: 미세먼지 공공 데이터 API를 통한 로직 개발, UI 리스트 개발
 - 기간: 2019/2 ~ 2019/3
 - 사용기술 : Java, retrofit, realm
 - GooglePlayStore (https://play.google.com/store/apps/details?id=kr.com.misemung)
 
+<img src="mise01.jpg" width="160"/> <img src="mise02.jpg" width="160"/> <img src="mise03.jpg" width="160"/> <img src="mise04.jpg" width="160"/>
+
 ## 개인 팀 프로젝트
 ### My Book Story
 내가 읽은 책을 쉽게 검색하고 남기고 싶은 글귀를 사진으로 찍어 저장하여 책장에 보관할 수 있는 도서 관리 서비스.
+- 역할: 도서 리뷰 리스트 개발 및 도서 리뷰 작성 화면 개발
 - 기간: 2014/7 ~ 2014/8
 - 사용기술 : Java, SQLite
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.jjhkbk.bookdiary&hl=ko)
@@ -24,33 +28,25 @@
 ## 회사 프로젝트
 ### 교보문고 eBook & eBook for SAMSUNG - eBook 앱
 - 소속 : 교보문고 
-- 역할 : 안드로이드 앱 개발
+- 역할 : 다운로드 및 도서삭제 관련 API 통신 로직 개발, 사용자별 책장동기화, 뷰어 주석동기화, 리스트 정렬 UI 개발, 뷰어 API를 통한 프론트 개발
 - 기간 : 2016/09 ~ 현재
 - 사용기술 : Java, retrofit, DRM, TTS
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.ebook.common.b2c&hl=ko)
 
 <img src="samsung_01.PNG" width="160"/> <img src="samsung_02.PNG" width="160"/> <img src="samsung_03.PNG" width="160"/> <img src="samsung_04.PNG" width="160"/>
 
-### 신규 교보문고 eBook & eBook for SAMSUNG - eBook 앱
-- 역할 : 안드로이드 앱 개발
-- 사용기술 : Java, retrofit, DRM, TTS
-
 ### 교보문고 전자도서관 - 교보문고와 제휴된 전자도서관의 이용자를 위한 것으로 도서 대출/반납 서비스 제공
 - 소속 : 교보문고 
-- 역할 : 안드로이드 앱 개발
+- 역할 : 도서 대여 다운로드 및 반납처리 관련 API 통신 로직 개발, 리스트 정렬 UI 개발, 뷰어 API를 통한 프론트 개발
 - 기간 : 2016/09 ~ 현재
 - 사용기술 : Java, DRM, TTS
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.ebook.b2b.phone.type3)
 
 <img src="type3_01.PNG" width="160"/> <img src="type3_02.PNG" width="160"/> <img src="type3_03.PNG" width="160"/> <img src="type3_04.PNG" width="160"/> <img src="type3_05.PNG" width="160"/>
 
-### 신규 교보문고 전자도서관 - 교보문고와 제휴된 전자도서관의 이용자를 위한 것으로 도서 대출/반납 서비스 제공
-- 역할 : 안드로이드 앱 개발
-- 사용기술 : Java, retrofit, DRM, TTS
-
 ### 웹소설 톡소다 - 유명 웹소설 작가의 작품을 구독할 수 있고 누구나 작가신청하여 집필 가능한 서비스
 - 소속 : 교보문고 
-- 역할 : 안드로이드 앱 개발
+- 역할 : 하이브리드 웹 개발로 JavaBridge를 통한 웹간 통신 개발, 로그인 세션 갱신을 위한 통신 개발
 - 기간 : 2016/10/10 ~ 2017/04/01
 - 사용기술 : Java
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.tocsoda)
@@ -68,13 +64,13 @@
 
 ### 종근당 M-Office - 종근당 영업사원들의 실적을 기록하는 앱
 - 소속 : 유누스
-- 역할 : 안드로이드 앱 개발
+- 역할 : 음성녹음 기록 서비스 개발, 사용자의 캘린더 스케쥴 등록, 취소 개발, 제품의 주문 요청, 취소 서비스 개발
 - 기간 : 2015/12 ~ 2016/02
 - 사용기술 : Java, Android, Volley
 
 ### TvingStickMnet
 - 소속 : 유누스
-- 역할 : 안드로이드 앱 개발
+- 역할 : MP3 스트리밍 서비스 개발
 - 기간 : 2015/07 ~ 2015/11
 - 사용기술 : Java, Android, Volley
 
@@ -87,7 +83,7 @@
 
 ### Visit Korea : Official Guide (영문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
-- 역할 : 안드로이드 앱 개발
+- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 화면 개발
 - 기간 : 2015/04 ~ 2015/07
 - 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.visitkorea.eng)
@@ -96,7 +92,7 @@
 
 ### 韩国自助游 (중문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
-- 역할 : 안드로이드 앱 개발
+- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 화면 개발
 - 기간 : 2015/04 ~ 2015/07
 - 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=kr.or.visitkorea.china)
@@ -105,7 +101,7 @@
 
 ### 韓国旅ガイド (일문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
-- 역할 : 안드로이드 앱 개발
+- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 화면 개발
 - 기간 : 2015/04 ~ 2015/07
 - 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=kto.visitkoreajp)
