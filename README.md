@@ -33,7 +33,7 @@
 - 사용기술 : Java, retrofit, DRM, TTS
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.ebook.common.b2c&hl=ko)
 
-<img src="samsung_01.PNG" width="160"/> <img src="samsung_02.PNG" width="160"/> <img src="samsung_03.PNG" width="160"/> <img src="samsung_04.PNG" width="160"/>
+<img src="ebook01.PNG" width="160"/> <img src="ebook02.PNG" width="160"/> <img src="ebook03.PNG" width="160"/> <img src="ebook04.PNG" width="160"/>
 
 ### 교보문고 전자도서관 - 교보문고와 제휴된 전자도서관의 이용자를 위한 것으로 도서 대출/반납 서비스 제공
 - 소속 : 교보문고 
