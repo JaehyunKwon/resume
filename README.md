@@ -5,12 +5,18 @@
 [유누스](http://theunus.com/ko/)
 - 2013/07 ~ 2016/09
 
+## 개인 프로젝트
+### 미세멍지
+미세먼지를 WHO 기준으로 제공해주며 사랑스러운 반려견과 산책하기 좋은지에 대해서 직관적으로 제공해주는 앱.
+- 기간: 2019/2 ~ 2019/3
+- 사용기술 : Java, retrofit, realm
+- GooglePlayStore (https://play.google.com/store/apps/details?id=kr.com.misemung)
 
 ## 개인 팀 프로젝트
 ### My Book Story
 내가 읽은 책을 쉽게 검색하고 남기고 싶은 글귀를 사진으로 찍어 저장하여 책장에 보관할 수 있는 도서 관리 서비스.
 - 기간: 2014/7 ~ 2014/8
-- 사용기술 : Java
+- 사용기술 : Java, SQLite
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.jjhkbk.bookdiary&hl=ko)
 
 <img src="myBookStroy_01.PNG" width="160"/> <img src="myBookStroy_02.PNG" width="160"/> <img src="myBookStroy_03.PNG" width="160"/> <img src="myBookStroy_04.PNG" width="160"/>
@@ -25,6 +31,10 @@
 
 <img src="samsung_01.PNG" width="160"/> <img src="samsung_02.PNG" width="160"/> <img src="samsung_03.PNG" width="160"/> <img src="samsung_04.PNG" width="160"/>
 
+### 신규 교보문고 eBook & eBook for SAMSUNG - eBook 앱
+- 역할 : 안드로이드 앱 개발
+- 사용기술 : Java, retrofit, DRM, TTS
+
 ### 교보문고 전자도서관 - 교보문고와 제휴된 전자도서관의 이용자를 위한 것으로 도서 대출/반납 서비스 제공
 - 소속 : 교보문고 
 - 역할 : 안드로이드 앱 개발
@@ -33,6 +43,10 @@
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.kyobo.ebook.b2b.phone.type3)
 
 <img src="type3_01.PNG" width="160"/> <img src="type3_02.PNG" width="160"/> <img src="type3_03.PNG" width="160"/> <img src="type3_04.PNG" width="160"/> <img src="type3_05.PNG" width="160"/>
+
+### 신규 교보문고 전자도서관 - 교보문고와 제휴된 전자도서관의 이용자를 위한 것으로 도서 대출/반납 서비스 제공
+- 역할 : 안드로이드 앱 개발
+- 사용기술 : Java, retrofit, DRM, TTS
 
 ### 웹소설 톡소다 - 유명 웹소설 작가의 작품을 구독할 수 있고 누구나 작가신청하여 집필 가능한 서비스
 - 소속 : 교보문고 
