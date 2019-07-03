@@ -18,7 +18,7 @@
 ## 개인 팀 프로젝트
 ### My Book Story
 내가 읽은 책을 쉽게 검색하고 남기고 싶은 글귀를 사진으로 찍어 저장하여 책장에 보관할 수 있는 도서 관리 서비스.
-- 역할: 도서 리뷰 리스트 개발 및 도서 리뷰 작성 View 및 Controler 개발
+- 역할: 도서 리뷰 리스트 개발 및 도서 리뷰 작성 View 및 Controller 개발
 - 기간: 2014/7 ~ 2014/8
 - 사용기술 : Java, SQLite
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.jjhkbk.bookdiary&hl=ko)
@@ -83,7 +83,7 @@
 
 ### Visit Korea : Official Guide (영문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
-- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 View 및 Controler 개발
+- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 View 및 Controller 개발
 - 기간 : 2015/04 ~ 2015/07
 - 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=com.visitkorea.eng)
@@ -92,7 +92,7 @@
 
 ### 韩国自助游 (중문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
-- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 View 및 Controler 개발
+- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 View 및 Controller 개발
 - 기간 : 2015/04 ~ 2015/07
 - 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=kr.or.visitkorea.china)
@@ -101,7 +101,7 @@
 
 ### 韓国旅ガイド (일문) - 국내 여행정보포털, 숙박, 관광명소, 맛집 정보, 동영상, 사진, 이벤트 행사 안내 서비스
 - 소속 : 유누스
-- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 View 및 Controler 개발
+- 역할 : Google Map API를 통한 음식점, 호텔, 쇼핑 위치서비스 개발, API 데이터를 전달받아 리스트 View 및 Controller 개발
 - 기간 : 2015/04 ~ 2015/07
 - 사용기술 : Java, Android, Volley, FacebookSDK, WeiboSDK, Google Map API
 - GooglePlayStore (https://play.google.com/store/apps/details?id=kto.visitkoreajp)
